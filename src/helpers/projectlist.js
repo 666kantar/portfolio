@@ -20,6 +20,9 @@ const projects = [
 		imgBig: project02Big,
 		skills: 'HTML, JavaScript, CSS',
 		gitHubLink: 'https://github.com/666kantar/zaiats',
+		siteLink: "https://zaiats-wine.netlify.app/"
+
+
 	}
 ];
 
